@@ -1,12 +1,8 @@
 # 伯乐在线翻译组讨论区
 
+任何关于翻译组到问题，都可以在本repo发起issue讨论
 
-
-[![](https://img.shields.io/badge/网站-伯乐在线-blue.svg?longCache=true&style=plastic)](http://www.jobbole.com/)
-[![](https://img.shields.io/badge/weibo-@伯乐在线-blue.svg?longCache=true&style=plastic)](https://weibo.com/jobbole)
-
-
-# 关于我们 
+## 关于我们 
 
 伯乐翻译小组([原版地址](http://fanyi.jobbole.com/))由数百名译者组成，立志翻译传播优秀的外文文章，为国内的IT/互联网同行带来有价值的内容。
 
@@ -18,11 +14,6 @@
 和我们志同道合？赶快[![](https://img.shields.io/badge/click-申请加入-green.svg?longCache=true&style=plastic)](https://github.com/jobbole/translation-playground/issues/new?title=%E8%AF%91%E8%80%85%E7%94%B3%E8%AF%B7&template=----.md)吧！
 
 
-- [![](https://img.shields.io/badge/1.-项目地址-blue.svg?longCache=true&style=popout)](https://github.com/jobbole/translation-project)
-- [![](https://img.shields.io/badge/2.-帮助文档-blue.svg?longCache=true&style=popout)](https://github.com/jobbole/translation-project/wiki)
-- [![](https://img.shields.io/badge/3.-视频教程-blue.svg?longCache=true&style=popout)](https://www.bilibili.com/video/av27999596/)
-- [![](https://img.shields.io/badge/4.-待翻译文章-blue.svg?longCache=true&style=popout)](https://github.com/jobbole/translation-project/issues)
-- [![](https://img.shields.io/badge/5.-waffle看板-blue.svg?longCache=true&style=popout)](https://waffle.io/jobbole/translation-warehouse)
 
 
 
