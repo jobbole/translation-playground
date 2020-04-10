@@ -13,6 +13,7 @@
 
 和我们志同道合？赶快[![](https://img.shields.io/badge/click-申请加入-green.svg?longCache=true&style=plastic)](https://github.com/jobbole/translation-playground/issues/new?title=%E8%AF%91%E8%80%85%E7%94%B3%E8%AF%B7&template=----.md)吧！
 
+### 暂停申请
 
 
 
